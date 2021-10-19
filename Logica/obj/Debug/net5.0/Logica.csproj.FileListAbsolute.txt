@@ -1,0 +1,17 @@
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\Datos.dll
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\Entidad.dll
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\Datos.pdb
+C:\Users\everl\Desktop\pruebaBack\Logica\bin\Debug\net5.0\Entidad.pdb
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\everl\Desktop\pruebaBack\Logica\obj\Debug\net5.0\Logica.pdb
